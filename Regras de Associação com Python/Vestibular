@@ -4,6 +4,29 @@ Regras de associação para uma base socioeconomica com dados de uma universidad
 Link para o Colab dos Estudos:
 https://colab.research.google.com/drive/1fy7X3HoAPkJDCVS00u-m9PM04k_pFp9O
 
+Regras mais relevantes:
+
+[[[frozenset({'Fundamental'}),
+   frozenset({'menor 17'}),
+   0.8276923076923077,
+   2.78962962962963],
+  [frozenset({'menor 17'}),
+   frozenset({'Fundamental'}),
+   0.9057239057239057,
+   2.7896296296296295]],
+ [[frozenset({'40-60 pontos', 'Fundamental'}),
+   frozenset({'menor 17'}),
+   0.7674418604651162,
+   2.58656330749354],
+  [frozenset({'40-60 pontos', 'menor 17'}),
+   frozenset({'Fundamental'}),
+   0.891891891891892,
+   2.7470270270270274]],
+ [[frozenset({'Diariamente', 'F'}),
+   frozenset({'Romance'}),
+   0.45849802371541504,
+   2.0673717195456325]]]
+
 Saiba mais sobre a base de dados estudada:
 https://www.devmedia.com.br/mineracao-de-dados-educacionais-usando-kdd-parte-1/28968
 https://www.devmedia.com.br/mineracao-de-dados-educacionais-usando-kdd-parte-2/29142
