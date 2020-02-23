@@ -1,0 +1,5 @@
+Suporte = Número de registros com X e Y / Número total de registros
+
+Confiança = Número de registros com X e Y / Número total de registros com X
+
+Lift = confiança(A > B) / suporte (B)
